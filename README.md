@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 ![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=1ucian0&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=1ucian0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ucian0&exclude_repo=talks)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1ucian0)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1ucian0)](https://github.com/anuraghazra/github-readme-stats)
