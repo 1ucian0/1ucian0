@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" />][instagram]
 
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1ucian0)
 -->
 
 
@@ -33,3 +31,5 @@ Here are some ideas to get you started:
 ![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=1ucian0&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=1ucian0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ucian0&exclude_repo=talks)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1ucian0)
+
